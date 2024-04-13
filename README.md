@@ -2,6 +2,6 @@
 
 This is a new change
 
-No more changes!
+There are no more changes!
 
 Thank you!
