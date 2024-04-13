@@ -2,7 +2,7 @@
 
 This is a new change
 
-This is another change
+This is another change!
 
 There are no more changes!
 
